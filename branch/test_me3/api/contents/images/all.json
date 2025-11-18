@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2025-11-18T14:53:59.417927Z",
+      "created": "2025-11-18T15:25:13.035372Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2025-11-18T14:53:43.035893Z",
+      "last_modified": "2025-11-18T15:24:55.580406Z",
       "mimetype": "image/png",
       "name": "icons8-python-48.png",
       "path": "images/icons8-python-48.png",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2025-11-18T14:53:59.416927Z",
+      "created": "2025-11-18T15:25:13.034372Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2025-11-18T14:53:43.035893Z",
+      "last_modified": "2025-11-18T15:24:55.580406Z",
       "mimetype": "image/svg+xml",
       "name": "Logo.svg",
       "path": "images/Logo.svg",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2025-11-18T14:53:59.417927Z",
+  "created": "2025-11-18T15:25:13.035372Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2025-11-18T14:53:59.417927Z",
+  "last_modified": "2025-11-18T15:25:13.035372Z",
   "mimetype": null,
   "name": "images",
   "path": "images",
