@@ -12,5 +12,3 @@ jobs:
     uses: DurhamARC-Training/PythonCourse-jupyterlite/.github/workflows/deploy-jupyterlite.yml@github-action-branches
     secrets: inherit
 
-
-  
