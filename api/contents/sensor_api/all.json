@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-18T11:53:55.587706Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-18T11:53:32.960807Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "sensor_api/__init__.py",
+      "size": 1967,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-18T11:53:55.587706Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-18T11:53:55.587706Z",
+  "mimetype": null,
+  "name": "sensor_api",
+  "path": "sensor_api",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
